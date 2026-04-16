@@ -14,11 +14,8 @@ This project analyzes the Bank Marketing dataset to understand customer behavior
 3. Data Visualization using Power BI
 
 ## Data Model
-Star schema includes:
-- dim_customer
-- dim_contact_time
-- dim_economic
-- fact_marketing
+<img width="951" height="620" alt="image" src="https://github.com/user-attachments/assets/6e7b2acf-2242-43b6-88f8-cef81915696d" />
+
 
 ## Dashboard Insights
 - Customer distribution by age group
@@ -27,4 +24,4 @@ Star schema includes:
 - Economic indicator trends
 
 ## Dataset
-UCI Bank Marketing Dataset
+Bank Marketing Dataset

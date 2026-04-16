@@ -5,7 +5,7 @@ This project analyzes the Bank Marketing dataset to understand customer behavior
 
 ## Tools
 * **Python**: Data Cleaning & Preprocessing
-* **SQL Server**: Star Schema Modeling
+* **PostgreSQL**: Star Schema Modeling
 * **Power BI**: Dashboard Visualization
 
 ---

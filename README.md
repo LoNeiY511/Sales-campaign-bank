@@ -58,5 +58,8 @@ This project analyzes the Bank Marketing dataset to understand customer behavior
 ## Dashboard
 | Overview | Analysis |
 |---|---|
-| ![Dashboard 1](https://github.com/user-attachments/assets/267b74ce-3367-4c5d-a590-c5f5c4caa240) | ![Dashboard 2](https://github.com/user-attachments/assets/32c02f8a-08d6-4754-8856-6e31d4aa418c) |
-| ![Dashboard 3](https://github.com/user-attachments/assets/f2058da2-24ab-4c9f-a7a5-ba50762303ed) | ![Dashboard 4](https://github.com/user-attachments/assets/a1dc5a5a-ddc8-4a61-be0e-a0483e02d4e0) |
+![Dashboard 1](https://github.com/user-attachments/assets/267b74ce-3367-4c5d-a590-c5f5c4caa240) 
+![Dashboard 2](https://github.com/user-attachments/assets/32c02f8a-08d6-4754-8856-6e31d4aa418c) 
+![Dashboard 3](https://github.com/user-attachments/assets/f2058da2-24ab-4c9f-a7a5-ba50762303ed) 
+![Dashboard 4](<img width="932" height="540" alt="image" src="https://github.com/user-attachments/assets/a0be9abc-ac68-4957-9ebc-1523b9553df7" />
+) 

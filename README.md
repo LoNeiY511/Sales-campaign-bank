@@ -59,9 +59,6 @@ This project analyzes the Bank Marketing dataset to understand customer behavior
 | Overview | Analysis |
 |---|---|
 ## Dashboard
-
-| **Overview & Demographic** | **Campaign Analysis** |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/267b74ce-3367-4c5d-a590-c5f5c4caa240" width="100%"> | <img src="https://github.com/user-attachments/assets/32c02f8a-08d6-4754-8856-6e31d4aa418c" width="100%"> |
-| **Social & Economic Context** | **Conversion Performance** |
 | <img src="https://github.com/user-attachments/assets/f2058da2-24ab-4c9f-a7a5-ba50762303ed" width="100%"> | <img src="https://github.com/user-attachments/assets/a0be9abc-ac68-4957-9ebc-1523b9553df7" width="100%"> |

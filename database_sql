@@ -178,9 +178,3 @@ AND c.nr_employed = de.nr_employed
 JOIN dim_campaign dca 
 ON c.poutcome = dca.poutcome; 
 
-SELECT * FROM dim_contact_type
-SELECT * FROM dim_campaign
-SELECT * FROM dim_customer
-SELECT * FROM dim_economic
-SELECT * FROM dim_time
-SELECT * FROM fact_marketing

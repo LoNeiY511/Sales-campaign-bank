@@ -53,3 +53,20 @@ This project analyzes the Bank Marketing dataset to understand customer behavior
 ## Dashboard
 <img src="https://github.com/user-attachments/assets/267b74ce-3367-4c5d-a590-c5f5c4caa240" width="100%"> | <img src="https://github.com/user-attachments/assets/32c02f8a-08d6-4754-8856-6e31d4aa418c" width="100%"> |
 <img src="https://github.com/user-attachments/assets/f2058da2-24ab-4c9f-a7a5-ba50762303ed" width="100%"> | <img src="https://github.com/user-attachments/assets/a0be9abc-ac68-4957-9ebc-1523b9553df7" width="100%"> 
+## 📊 Marketing Campaign Analysis & Automated ETL Pipeline
+
+### **Technical Implementation (ETL & Modeling)**
+* **Automated Data Processing:** Developed a **Python-based ETL pipeline** to clean and transform **50K+ records**, efficiently handling missing values, data type conversion, and encoding.
+* **Database Architecture:** Designed and implemented a **Star Schema** (1 Fact table – 5 Dimension tables) on **PostgreSQL** to optimize query performance and ensure data integrity.
+* **Business Intelligence:** Connected PostgreSQL to **Power BI** to build an interactive dashboard for real-time campaign monitoring and trend analysis.
+
+### **Key Campaign Insights**
+* **Overall Performance:** Analyzed a campaign targeting **13K customers**, achieving a **~20% Conversion Rate** with an average call duration of **258 seconds**.
+* **Age Demographics:** * The **65+ age group** delivered the highest conversion rate (**45%**), despite being the smallest segment in volume.
+    * The **under-25 group** showed a surprisingly high conversion rate of **21.93%** (the second-highest performing segment).
+* **Segment Deep-dive:** Identified **Students** as a high-potential occupation with a **34.38% conversion rate**, accounting for approximately 50% of total conversions within the under-25 group.
+
+### **Strategic Recommendations**
+* **Scale High-Performing Segments:** Although the <25 and 65+ groups have the highest conversion rates, their current volume is low. I recommend **expanding the target reach** for these specific demographics to maximize campaign ROI.
+* **Optimize Resource Allocation:** Shift marketing focus and budget towards the **"Student" profile** within the youth demographic to leverage their high responsiveness and conversion potential.
+
